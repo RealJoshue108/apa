@@ -32,7 +32,11 @@ var respecConfig = {
 	//previousDiffURI: "",
 	
 	// if there a publicly available Editors Draft, this is the link
+<<<<<<< HEAD
 	edDraftURI: "https://w3c.github.io/apa/xaur/",
+=======
+	edDraftURI: "https://w3c.github.io/apa/rtc/",
+>>>>>>> 0db6424... XAUR Draft
 	
 	// if this is a LCWD, uncomment and set the end of its review period
 	// lcEnd: "2012-02-21",
